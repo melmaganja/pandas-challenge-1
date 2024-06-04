@@ -1,1 +1,2 @@
 # pandas-challenge-1
+In this assignment I used Pandas to import a dataset and analyse the data. I used functions like ‘value set’, ‘sum’, ‘rename’ and ‘sort values. I struggled with Part 3 and Part 4 the most in this assignment. I felt like the wording of the questions, as well as the complexity of the coding was quite overwhelming for me. I had to utilize a lot of resources to be able to complete the final parts of the assignments.
